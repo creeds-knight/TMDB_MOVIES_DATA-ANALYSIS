@@ -1,5 +1,5 @@
 # TMDB_MOVIES_DATA-ANALYSIS
-![Cover Art](dowload(1).jpeg)
+![Cover Art](366144.jpg)
 
 This repository contains analysis of a dataset from the Movie Database(TMBD).The data has a variety of features
 like budget, revenue, popularity. In this project I investigate the dataset with a set of questions to gain insights about the dataset.
